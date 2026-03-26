@@ -50,7 +50,7 @@ In short, you can think of Copilot like a very specialized coworker. To be effec
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. Press `Tab` to accept Copilot's suggestion and convert the shadow text to code.
 
@@ -91,7 +91,7 @@ In new project developments, it's often helpful to have some realistic looking f
 
 1. Highlight the entire `activities` dictionary by clicking and dragging your mouse from the top to the bottom of the dictionary. This will help provide context to Copilot for our next prompt.
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. Bring up Copilot inline chat by using the keyboard command `Ctrl + I` (windows) or `Cmd + I` (mac).
@@ -188,7 +188,7 @@ Nice work fixing that bug and expanding the example activities! Now let's get ou
 
 1. Find the `app.py` file and press the `+` sign to collect your changes together in the staging area.
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. Above the list of staged changes, find the **Message** text box, but **don't enter anything** for now.
    - Typically, you would write a short description of the changes here, but now we have Copilot to help out!

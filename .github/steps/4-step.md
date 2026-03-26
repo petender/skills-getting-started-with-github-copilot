@@ -30,7 +30,7 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 
 1. Open the **Copilot Chat** panel and switch to **Plan Agent**.
 
-   <img width="350" alt="image" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. Let's start with a broad prompt and Copilot will help us fill in the details:
@@ -64,7 +64,7 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 
 1. Review the proposed plan and when you are happy with it, click **Start implementation** to hand off to **Agent Mode**.
 
-   <img width="350" alt="image" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="image" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    Notice that clicking the button switched from **Plan** to **Agent Mode**. From this point on, Copilot can edit your codebase, just like before.
 

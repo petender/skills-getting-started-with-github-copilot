@@ -38,7 +38,7 @@ Let's use Copilot to change the website to display signed up students under each
 
 1. At the bottom of Copilot Chat window, use the dropdown to switch to **Agent** mode.
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Open the files related to our webpage then drag each editor window (or file) to the chat panel, informing Copilot to use them as context.
 
@@ -48,7 +48,7 @@ Let's use Copilot to change the website to display signed up students under each
 
    > 🪧 **Note:** Adding files as context is optional. If you skip this, Copilot Agent Mode can still use tools like `#codebase` to search for relevant files from your prompt. Adding specific files helps point Copilot in the right direction, which is especially useful in larger codebases.
 
-   <img width="400" alt="image showing files added to context" src="../images/files-added-to-context.png" />
+   <img width="400" alt="image showing files added to context" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **Tip:** You can also use the **Add Context...** button to provide other sources of context items, like a GitHub issue or the results of a terminal window.
 
@@ -66,14 +66,14 @@ Let's use Copilot to change the website to display signed up students under each
 
    Using the **Keep** buttons shown below, you can accept/discard all changes or review and decide change by change. This can be done either from the chat panel view or while inspecting each edited file.
 
-      <img width="900" alt="buttons to keep or discard changes" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="buttons to keep or discard changes" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. Before we simply accept the changes, please check our website again and verify everything is updated as expected. 
    
    Here is an example of an updated activity card. You may need to restart the app or refresh the page.
 
-   <img width="350" alt="Activity card with participant info" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Activity card with participant info" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **Note:** Your activity card may look different. Copilot won't always produce the same results.
 
@@ -99,11 +99,11 @@ If you don't get the desired results, you can try other models or provide follow
 
 1. Make sure your Copilot is still in **Agent** mode.
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Click on the **Tools** icon and explore all Tools currently available to Copilot Agent Mode.
 
-   <img width="250"  alt="tools icon" src="../images/tools-icon.png" />
+   <img width="250"  alt="tools icon" src="https://github.com/petender/skills-getting-started-with-github-copilot/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. Time for our test! Let's ask Copilot to add functionality for removing participants.
 
